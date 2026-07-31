@@ -1,7 +1,7 @@
 %define module jinxed
 
 Name:		python-jinxed
-Version:	2.0.4
+Version:	2.1.0
 Release:	1
 Summary:	Jinxed Terminal Library
 License:	MPL-2.0
