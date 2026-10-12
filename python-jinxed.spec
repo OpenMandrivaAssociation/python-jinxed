@@ -2,7 +2,7 @@
 
 Name:		python-jinxed
 Version:	2.1.0
-Release:	1
+Release:	2
 Summary:	Jinxed Terminal Library
 License:	MPL-2.0
 Group:		Development/Python
